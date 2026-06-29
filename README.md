@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
