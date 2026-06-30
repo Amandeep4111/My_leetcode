@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Amandeep4111/My_leetcode/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Amandeep4111/My_leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
