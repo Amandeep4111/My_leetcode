@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Amandeep4111/My_leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Amandeep4111/My_leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/Amandeep4111/My_leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/Amandeep4111/My_leetcode/tree/master/0596-classes-with-at-least-5-students) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
