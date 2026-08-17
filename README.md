@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Amandeep4111/My_leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Amandeep4111/My_leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
