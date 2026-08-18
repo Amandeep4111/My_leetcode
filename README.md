@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amandeep4111/My_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -105,5 +107,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0015-3sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
