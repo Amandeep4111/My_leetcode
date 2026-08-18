@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Amandeep4111/My_leetcode/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Amandeep4111/My_leetcode/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Amandeep4111/My_leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amandeep4111/My_leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Amandeep4111/My_leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
