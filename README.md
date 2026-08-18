@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Amandeep4111/My_leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amandeep4111/My_leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0015-3sum) |
+| [0443-string-compression](https://github.com/Amandeep4111/My_leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amandeep4111/My_leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Manacher
 |  |
