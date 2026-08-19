@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Amandeep4111/My_leetcode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/Amandeep4111/My_leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Amandeep4111/My_leetcode/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Amandeep4111/My_leetcode/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/Amandeep4111/My_leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Amandeep4111/My_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/1143-longest-common-subsequence) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/Amandeep4111/My_leetcode/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/Amandeep4111/My_leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Amandeep4111/My_leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Manacher
 |  |
