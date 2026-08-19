@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amandeep4111/My_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Amandeep4111/My_leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amandeep4111/My_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
