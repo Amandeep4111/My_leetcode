@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Amandeep4111/My_leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Amandeep4111/My_leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Amandeep4111/My_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0994-rotting-oranges](https://github.com/Amandeep4111/My_leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Amandeep4111/My_leetcode/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
