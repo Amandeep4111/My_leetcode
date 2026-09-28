@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Amandeep4111/My_leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Amandeep4111/My_leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Amandeep4111/My_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0994-rotting-oranges](https://github.com/Amandeep4111/My_leetcode/tree/master/0994-rotting-oranges) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amandeep4111/My_leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Amandeep4111/My_leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Amandeep4111/My_leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandeep4111/My_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Amandeep4111/My_leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Amandeep4111/My_leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandeep4111/My_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Amandeep4111/My_leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Amandeep4111/My_leetcode/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amandeep4111/My_leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
